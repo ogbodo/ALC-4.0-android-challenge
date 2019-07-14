@@ -7,6 +7,8 @@
     <string name="email">Email:\t\tmatthiasogbodo@gmail.com</string>
     <string name="Phone_number">Phone:\t\t\t07032150416</string>
     <string name="slack_name">Slack Name:\t\t\tIzuking</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="about_me">MY PROFILE</string>
 
 
 </resources>
