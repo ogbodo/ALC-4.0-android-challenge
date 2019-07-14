@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">ALC_Four_Challenge</string>
-    <string name="title">Welcome to ALC 4.0</string>
+    <string name="greeting">Welcome to ALC 4.0</string>
+    <string name="name">Solomon Ogbodo</string>
+    <string name="track">Track:\t\t\t\t\t\t Android</string>
+    <string name="country">Country:\t\t\t\tNigeria</string>
+    <string name="email">Email:\t\tmatthiasogbodo@gmail.com</string>
+    <string name="Phone_number">Phone:\t\t\t07032150416</string>
+    <string name="slack_name">Slack Name:\t\t\tIzuking</string>
+
 
 </resources>
